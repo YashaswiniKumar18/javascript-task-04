@@ -1,0 +1,33 @@
+CONCEPT QUESTIONS
+1. Difference between function declaration & expression?
+
+Declaration is hoisted
+
+Expression is not hoisted
+
+2. What is higher order function?
+
+A function that takes another function as argument or returns a function
+
+3. Real-time example of generator?
+
+Order ID generation
+
+Pagination
+
+Coupon systems
+
+4. Why do we use IIFE?
+
+Data security
+
+Avoid global scope pollution
+
+Encapsulation
+
+5. Difference between var, let, const?
+| Feature  | var      | let       | const     |
+| -------- | -------- | --------- | --------- |
+| Scope    | Function | Block     | Block     |
+| Hoisting | Yes      | Yes (TDZ) | Yes (TDZ) |
+| Reassign | Yes      | Yes       | No        |
